@@ -1,3 +1,1 @@
-![Lorem Picsum](https://picsum.photos/1920/1080)
-
-> 위는 랜덤 이미지입니다!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
