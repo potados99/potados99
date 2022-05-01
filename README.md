@@ -2,7 +2,8 @@
 
 감자튀김 먹고싶어요 
 
-<details><summary>자기소개</summary>
+<details>
+<summary>자기소개</summary>
 <p>
 
 안녕하세요, 개발자 송병준입니다.
