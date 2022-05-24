@@ -3,6 +3,7 @@
 감자튀김 먹고싶어요 
 
 <details>
+
 <summary>자기소개</summary>
 <p>
 
